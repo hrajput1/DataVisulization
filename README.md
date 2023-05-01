@@ -11,5 +11,11 @@ In summary, the EDA of the IPL dataset should focus on identifying the most succ
 
 Here are the some visualized images.
 
+1. Top Players from the Match Winner.
 ![alt text](https://github.com/hrajput1/DataVisulization/blob/main/TopPlayersOfTheMatchWinner.png)
 
+2. Matches Played by each team.
+![alt text](https://github.com/hrajput1/DataVisulization/blob/main/matchesplayesbyeachteam.png)
+
+3. Decision based on Toss.
+![alt text](https://github.com/hrajput1/DataVisulization/blob/main/TossDecision.png)
